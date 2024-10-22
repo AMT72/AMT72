@@ -1,12 +1,12 @@
 # ***Stellar Explorer Program***
 
-![alt text](https://drive.google.com/file/d/1Gf8t7fjug963YyJeOFrk-9x9XXYNcxDf/view?usp=drive_link)
+![alt text]()
 
 ---
 Introducing **Stellar Explorer**, an innovative software application designed to immerse users in the vast mysteries of outer space. With interactive 3D models of planets, stars, and galaxies, Stellar Explorer allows users to virtually explore celestial bodies, learn about their compositions, and experience space travel simulations. The app also includes real-time data from space agencies, offering up-to-date insights into ongoing missions and astronomical discoveries. Whether you're an astronomy enthusiast or just curious about the cosmos, Stellar Explorer provides a captivating way to dive into the wonders of the universe.
 
 ---
-![alt text](https://drive.google.com/file/d/1l5ccDAJ6AbylR6F2onLbBtRmqaerqRoY/view?usp=drive_link)
+![alt text](https://github.com/user-attachments/assets/df87b638-4c8c-4c6a-9752-dc4ab10480e4)
 
 ---
 ## ***Key Features***
