@@ -1,26 +1,36 @@
 <div align="center">
 
 # Hi there, I'm Azzam </>
-##### AI learner | Exploring DL technics
+#### AI learner | Exploring DL technics
 
 <br>
 
 | [ <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/><br>LinkedIn ](https://www.linkedin.com/in/azzam-abdullah-293a31284/) | [ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="40"/><br>Gmail ](mailto:Azzam56464@gmail.com@gmail.com) | [ <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40"/><br>Telegram ](https://t.me/Tozo72) |
 | :---: | :---: | :---: |
 
+</div>
+
 ---
 
-### 🚀 About Me
-<p align="left">
+### **About Me**✨
 
-I am a Computer Science student with a passion for Machine Learning and Artificial Intelligence. I enjoy building intelligent solutions and working with data.
+🎓 Junior Artificial Intelligence student at Umm Al-Qura University (UQU)
 
-### 📧 Contact Me
-<p align="left">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+💻 Currently learning Computer Vision and its related libraries, and continuously expanding my knowledge in AI technologies
+
+🎨 Interested in UI/UX design and planning to dive deeper into it soon
+
+⚡ Fast and self-driven learner who adapts quickly to new fields and technologies, always aiming to grow and build impactful solutions
+
+---
+
+### 💻 Projects
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| 📝 YouTube Comments Analysis | Sentiment analysis on YouTube comments | [View Repo](https://github.com/YourUsername/youtube-comments-analysis) |
+| 📚 Markdown Mini Project | Small university project with neat Markdown formatting | [View Repo](https://github.com/YourUsername/markdown-mini-project) |
+
 
 ### 🛠 Languages & Tools
 
