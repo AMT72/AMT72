@@ -12,7 +12,7 @@
 
 ---
 
-### **About Me**✨
+### ✨**About Me**
 
 🎓 Junior Artificial Intelligence student at Umm Al-Qura University (UQU)
 
@@ -24,52 +24,46 @@
 
 ---
 
-### 💻 Projects
+### 💻 Projects 
 
 | Project | Description | Links |
-|---------|-------------|-------|
-| 📝 YouTube Comments Analysis | Sentiment analysis on YouTube comments | [View Repo](https://github.com/YourUsername/youtube-comments-analysis) |
-| 📚 Markdown Mini Project | Small university project with neat Markdown formatting | [View Repo](https://github.com/YourUsername/markdown-mini-project) |
+| :--- | :--- | :--- |
+| **Arabic YT Sentiment AI** | An end-to-end NLP pipeline that automates YouTube community sentiment reporting. It extracts Arabic comments via API, performs classification using a fine-tuned **CAMeL-BERT** model, and generates automated visual reports. | [Repo Link](https://github.com/YourUsername/Arabic-YouTube-Sentiment-Analysis) |
+| **Real Estate & Computer Vision** | A dual-specialized project featuring **Makkah region rental indicators analysis** using Logistic Regression and an **Image Classification system** powered by **CNN (Convolutional Neural Networks)** built with TensorFlow. | [Repo Link](https://github.com/YourUsername/AI-Applied-Solutions) |
+| **Numerical Optimization Lab** | A mathematical AI project implementing advanced optimization algorithms from scratch, including the **Levenberg-Marquardt (LM)** method and **Golden Section Search**, with runtime efficiency and iteration analysis. | [Repo Link](https://github.com/YourUsername/Numerical-Optimization-AI) |
 
+---
 
-### 🛠 Languages & Tools
+## ⚙️ Technical Skills & Tools
 
-#### Backend & AI
+### 🌐 Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,matlab,html,mysql,powershell" />
+  </a>
 </p>
 
-#### Frontend & Database
+### 🤖 AI, Machine Learning & Computer Vision
 <p align="left">
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
+  </a>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-#### DevOps & Tools
+### 🛠️ Development & Productivity Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,windows,notion" />
+  </a>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AMT72&show_icons=true&theme=radical" alt="AMT72's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMT72&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+---
 
-### 📂 Key Projects
-* **[Project 1]**: Simple description of the project here.
-* **[Project 2]**: Simple description of the project here.
-
-### 😂 Meme of the Day
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6Nnp6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPqcKGRZaS9W/giphy.gif" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="Abdulaziz's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
 </p>
