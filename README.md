@@ -1,20 +1,18 @@
-<p align="center">
-  <a href="https://github.com/kyeotic/capsule-render" target="_blank">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=gradient&text=Hi%20I'm%20Azzam&section=header&fontAlign=50&animation=fadeIn" alt="Header" />
-</a>
-</p>
+<div align="center">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+I'm+AMT72;I'm+a+CS+Student;AI+%26+Data+Science+Enthusiast" alt="Typing SVG" />
-  </a>
-</h1>
+# Hi there, I'm Azzam </>
+##### AI learner | Exploring DL technics
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndmthZzRyeHpsbmR5bm96Z3R5Z3R5Z3R5Z3R5Z3R5Z3R5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-</p>
+<br>
+
+| [ <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/><br>LinkedIn ](https://www.linkedin.com/in/azzam-abdullah-293a31284/) | [ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="40"/><br>Gmail ](mailto:Azzam56464@gmail.com@gmail.com) | [ <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40"/><br>Telegram ](https://t.me/Tozo72) |
+| :---: | :---: | :---: |
+
+---
 
 ### 🚀 About Me
+<p align="left">
+
 I am a Computer Science student with a passion for Machine Learning and Artificial Intelligence. I enjoy building intelligent solutions and working with data.
 
 ### 📧 Contact Me
