@@ -28,9 +28,9 @@
 
 | Project | Description | Links |
 | :--- | :--- | :--- |
-| **Arabic YT Sentiment AI** | An end-to-end NLP pipeline that automates YouTube community sentiment reporting. It extracts Arabic comments via API, performs classification using a fine-tuned **CAMeL-BERT** model, and generates automated visual reports. | [Repo Link](https://github.com/YourUsername/Arabic-YouTube-Sentiment-Analysis) |
-| **Real Estate & Computer Vision** | A dual-specialized project featuring **Makkah region rental indicators analysis** using Logistic Regression and an **Image Classification system** powered by **CNN (Convolutional Neural Networks)** built with TensorFlow. | [Repo Link](https://github.com/YourUsername/AI-Applied-Solutions) |
-| **Numerical Optimization Lab** | A mathematical AI project implementing advanced optimization algorithms from scratch, including the **Levenberg-Marquardt (LM)** method and **Golden Section Search**, with runtime efficiency and iteration analysis. | [Repo Link](https://github.com/YourUsername/Numerical-Optimization-AI) |
+| **Arabic YT Sentiment Tool** | An end-to-end NLP pipeline that automates YouTube community sentiment reporting. It extracts Arabic comments via API, performs classification using a fine-tuned **CAMeL-BERT** model, and generates automated visual reports. | [Repo Link](https://github.com/YourUsername/Arabic-YouTube-Sentiment-Analysis) |
+| **Computer Vision** | A dual-specialized project featuring **Makkah region rental indicators analysis** using Logistic Regression and an **Image Classification system** powered by **CNN (Convolutional Neural Networks)** built with TensorFlow. | [Repo Link](https://github.com/YourUsername/AI-Applied-Solutions) |
+| **Numerical Optimization** | A mathematical AI project implementing advanced optimization algorithms from scratch, including the **Levenberg-Marquardt (LM)** method and **Golden Section Search**, with runtime efficiency and iteration analysis. | [Repo Link](https://github.com/YourUsername/Numerical-Optimization-AI) |
 
 ---
 
