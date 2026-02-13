@@ -62,3 +62,7 @@
   
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AMT72&layout=compact&theme=github_dark&card_width=270" alt="Top Languages" />
 </p>
+
+---
+
+### *Failure is not falling down, but refusing to get up.*
