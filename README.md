@@ -38,32 +38,27 @@
 
 ### 🌐 Programming Languages
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,matlab,html,mysql,powershell" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,java,matlab,html,mysql,powershell" />
 </p>
 
 ### 🤖 AI, Machine Learning & Computer Vision
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
-  </a>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="numpy" />
 </p>
 
 ### 🛠️ Development & Productivity Tools
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,windows,notion" />
-  </a>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,windows,notion" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="canva" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="Abdulaziz's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AMT72&theme=github_dark" alt="Azzam's Streak" />
+  
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AMT72&layout=compact&theme=github_dark&card_width=270" alt="Top Languages" />
 </p>
