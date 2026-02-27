@@ -38,7 +38,7 @@
 
 ### 🌐 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,matlab,html,mysql,powershell" />
+  <img src="https://skillicons.dev/icons?i=py,java,html,mysql,powershell" />
 </p>
 
 ### 🤖 AI, Machine Learning & Computer Vision
