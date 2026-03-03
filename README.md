@@ -5,7 +5,7 @@
 
 <br>
 
-| [ <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/><br>LinkedIn ](https://www.linkedin.com/in/azzam-abdullah-293a31284/) | [ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="40"/><br>Gmail ](mailto:Azzam56464@gmail.com@gmail.com) | [ <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40"/><br>Telegram ](https://t.me/Tozo72) |
+| [ <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/><br>LinkedIn ](https://www.linkedin.com/in/amt72/) | [ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="40"/><br>Gmail ](mailto:Azzam56464@gmail.com@gmail.com) | [ <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40"/><br>Telegram ](https://t.me/Tozo72) |
 | :---: | :---: | :---: |
 
 </div>
