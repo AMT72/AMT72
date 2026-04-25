@@ -25,10 +25,12 @@
 ---
 
 ### 💻 Projects 
+
 | Project | Description | Links |
 | :--- | :--- | :--- |
-| **YouSight** | An end-to-end NLP tool that automates YouTube community sentiment reporting. It extracts Arabic comments via API, performs classification using a fine-tuned **CAMeL-BERT** model, and generates automated visual insight reports. | [Repo Link](https://github.com/AMT72/Arabic-YouTube-Sentiment-Analysis-Tool) |
-| **Vehic_Vision** | An advanced Computer Vision system designed for automated car damage detection. Built with **PyTorch** and **YOLO**, it features a specialized pipeline for object detection and multi-class damage classification, emphasizing model interpretability (still working on it!). | [Repo Link](https://github.com/AMT72/Vehic_Vision) |
+| **Vehic_Vision** | An advanced Computer Vision system designed for automated car damage detection. Built with **PyTorch** and **YOLO**, it features a specialized pipeline for object detection and multi-class damage classification, emphasizing model interpretability. | [Repo Link](https://github.com/AMT72/Vehic_Vision) |
+| **DeePaper** | A sophisticated **RAG-based** assistant for scientific research. Powered by **Qwen 2.5 7B**, it automates paper summarization, identifying research gaps, and extracting methodology details. It generates structured **PDF reports** with AI-driven suggestions for future work. | [Repo Link](https://github.com/AMT72/DeePaper) |
+| **YouSight** | An end-to-end NLP tool that automates YouTube community sentiment reporting. It extracts Arabic comments via API, performs classification using a fine-tuned **CAMeL-BERT** model, and generates automated visual insight reports. | [Repo Link](https://github.com/AMT72/YouSights) |
 
 ---
 
